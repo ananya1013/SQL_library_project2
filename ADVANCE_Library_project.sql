@@ -1,11 +1,6 @@
 --SQL Project - Library Management System N2 
 
-select * from books
-select * from branch
-select * from employee
-select * from issued_status
-select * from members
-select * from return_status
+
 
 12.  --Identify Members with Overdue Books
 --Write a query to identify members who have overdue books (assume a 30-day return period). Display the member's_id, member's name, book title, issue date, and days overdue.
